@@ -1,0 +1,2 @@
+this assignment is prepared for two purposes. 
+the first one is to make simple and stunning website and the aother is create knowledge on the user about the impacts of the IoT on the societal development.
